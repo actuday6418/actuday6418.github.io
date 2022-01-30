@@ -123,9 +123,16 @@ a:hover {
   color: #ffffff;
   padding-left: 3%;
   padding-right: 3%;
-  font-size: 150%;
+  font-size: 1vw;
 }
 
+.linkphone {
+  text-decoration: none;
+  color: #c77777;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-size: 2vw;
+}
 .slink {
   width: 5vw;
   height: 5vh;
