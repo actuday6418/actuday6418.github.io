@@ -4,7 +4,7 @@ body {
   width: 100%;
   height: 1000px;
   margin: 0;
-  background-color: #c32a33;
+  background-color: #D62F33;
   font-family: 'Fira Mono', monospace;
 }
 
@@ -30,7 +30,7 @@ a:hover {
   height: 30vh;
   width: 100%;
   top: 0;
-  background-image: linear-gradient(#c32a33 0 50%,#ffffff00);
+  background-image: linear-gradient(#D62F33 0 50%,#ffffff00);
   z-index: 999;
 
 }
@@ -71,7 +71,7 @@ a:hover {
 
 .bignorm {
   font-size: 3vw;
-  color: #c77777;
+  color: #d78787;
 }
 
 .right {
@@ -108,7 +108,7 @@ a:hover {
 }
 .bigtext-grey {
   font-size: 7vw;
-  color: #c77777;
+  color: #d78787;
 }
 
 .full-size {
@@ -127,7 +127,7 @@ a:hover {
 }
 
 .linkphone {
-  color: #c77777;
+  color: #d78787;
   padding-left: 3%;
   padding-right: 3%;
   font-size: 2vw;
